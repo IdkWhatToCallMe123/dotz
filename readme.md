@@ -2,7 +2,7 @@
 
 ![Untitled](Untitled.png)
 
-![Untitled](Untitled 1.png)
+![Untitled](<Untitled 1.png>)
 
 # ⚠️ HEADS UP!!!!! ⚠️
 
@@ -170,7 +170,7 @@ I set my opacity to 178 as I think it was the best balance between readability a
     4. Navigate back to the theme settings and select your theme
     5. Assuming you configured **********************Blur My Shell**********************  properly (mentioned in the previous section) your terminal should look something like this now:
     
-    ![Untitled](Untitled 2.png)
+    ![Untitled](<Untitled 2.png>)
     
 
 ### Extra stuff
@@ -202,7 +202,7 @@ sudo chown you-user-name /var/lib/flatpak/app/com.spotify.Client/x86_64/stable/a
 
 1. Head over to the marketplace and install these:
 
-![Untitled](Untitled 3.png)
+![Untitled](<Untitled 3.png>)
 
 1. Enjoy 😎
 
