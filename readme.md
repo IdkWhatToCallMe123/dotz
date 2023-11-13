@@ -12,6 +12,10 @@ Some of the extensions and the theme are incompatible/broken on the latest GNOME
 
 THAT ALSO MEANS DON’T UPGRADE TO THE LATEST FEDORA VERSION OR THE LATEST UBUNTU VERSION AS THEY BOTH USE THE GNOME 45
 
+Expect some significant performance and battery life downgrades when using all of the extensions, especially on a laptop. If you still want this setup but without any significant sacrifices disable the Rounded Window Corners extension and the Blur My Shell extension.
+
+Also expect that some apps might look weird as GTK theming not an officially supported feature
+
 ## A tiny message before the actual tutorial (im sorry)
 
 ### THIS PAGE IS NOWHERE DONE!!!!!
