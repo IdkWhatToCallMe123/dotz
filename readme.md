@@ -47,6 +47,7 @@ Fetch: [https://github.com/ssleert/nitch](https://github.com/ssleert/nitch)
 - [https://extensions.gnome.org/extension/5489/search-light/](https://extensions.gnome.org/extension/5489/search-light/)
 - [https://extensions.gnome.org/extension/19/user-themes/](https://extensions.gnome.org/extension/19/user-themes/)
 - [https://extensions.gnome.org/extension/1460/vitals/](https://extensions.gnome.org/extension/1460/vitals/)
+- [https://extensions.gnome.org/extension/5237/rounded-window-corners/](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 
 ## The extensions that require a bit of extra configuration:
 
