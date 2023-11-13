@@ -2,6 +2,8 @@
 
 ![Untitled](Untitled.png)
 
+![Untitled](Untitled 1.png)
+
 # ⚠️ HEADS UP!!!!! ⚠️
 
 Some of the extensions and the theme are incompatible/broken on the latest GNOME version (GNOME 45)
@@ -29,6 +31,8 @@ Theme:  [https://github.com/catppuccin/gtk](https://github.com/catppuccin/gtk)
 (I personally used Macchiato-Standard-Red)
 
 Icons: [https://github.com/PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) plus [https://github.com/catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
+
+Wallpaper: [https://github.com/Gingeh/wallpapers/blob/main/landscapes/evening-sky.png](https://github.com/Gingeh/wallpapers/blob/main/landscapes/evening-sky.png)
 
 Fetch: [https://github.com/ssleert/nitch](https://github.com/ssleert/nitch)
 
@@ -166,9 +170,53 @@ I set my opacity to 178 as I think it was the best balance between readability a
     4. Navigate back to the theme settings and select your theme
     5. Assuming you configured **********************Blur My Shell**********************  properly (mentioned in the previous section) your terminal should look something like this now:
     
-    ![Untitled](Untitled1.png)
+    ![Untitled](Untitled 2.png)
     
 
-## Extra stuff
+### Extra stuff
 
-working on it
+- To move the window without the title/header bar hold down the Windows/Super key and move the window :)
+- To get some extra icons when listing your files in the terminal use this: [https://github.com/lsd-rs/lsd](https://github.com/lsd-rs/lsd)
+- To get that cool system info-whatever screen I showed in the screenshot install this: [https://github.com/ssleert/nitch](https://github.com/ssleert/nitch)
+
+# Epic-fy your spotify:
+
+1. Install Spicetify: [https://spicetify.app/docs/getting-started#shell-pre-built-binary](https://spicetify.app/docs/getting-started#shell-pre-built-binary)
+
+<aside>
+💡 If you are getting a “can’t find the command spicetify error” just restart your terminal
+
+</aside>
+
+<aside>
+💡 If you are getting an error about spicetify noting finding the config file, make sure to properly read through this:[https://spicetify.app/docs/advanced-usage/installation#note-for-linux-users](https://spicetify.app/docs/advanced-usage/installation#note-for-linux-users)
+I wasted hours not realizing what I wrong installing it for the first time
+
+After this you might getting an error saying that you lack permission to edit the files. In that case type this command into your terminal (with your username of course):
+
+</aside>
+
+```bash
+sudo chown you-user-name /var/lib/flatpak/app/com.spotify.Client/x86_64/stable/active/files/extra/share/
+```
+
+1. Head over to the marketplace and install these:
+
+![Untitled](Untitled 3.png)
+
+1. Enjoy 😎
+
+# Notion
+
+For this to work you need to install Notion as a PWA in you preferred browser
+
+<aside>
+💡 If you wanna use Firefox you need this: [https://addons.mozilla.org/zh-TW/firefox/addon/pwas-for-firefox/](https://addons.mozilla.org/zh-TW/firefox/addon/pwas-for-firefox/)
+
+</aside>
+
+1. Install the Stylus browser extension in your PWA: [https://github.com/openstyles/stylus/#readme](https://github.com/openstyles/stylus/#readme)
+2. Install this theme: [https://userstyles.world/style/3838/notion-catppuccin](https://userstyles.world/style/3838/notion-catppuccin)
+3. Voila!
+
+I know that this page looks kinda broken atm bc i just made this in notion and then exported it as a markdown file ill fix it later
