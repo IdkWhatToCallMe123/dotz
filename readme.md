@@ -79,7 +79,7 @@ Turn on these
 
 - Battery bar (With “Show Icon” disabled)
 
-Note: I decreased the height a bit by a couple of pixels after I took the screenshot
+> Note: I decreased the height a bit by a couple of pixels after I took the screenshot
 
 - Dynamic panel (Be sure to enable “Floating”)
 - Power Menu
