@@ -182,7 +182,7 @@ But what I did instead is this:
 
 ![Untitled](<Untitled 3.png>)
 
-1. I picked the background color of the UI in the popup
+3. I picked the background color of the UI in the popup
 
 It’s not a perfect solution but I thinks it’s way better than just leaving it at default
 
