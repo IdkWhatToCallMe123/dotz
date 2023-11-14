@@ -97,11 +97,11 @@ Cover Width: 500
 
 Cover Height: 170
 
-<aside>
-💡 Extra note:
-I disabled the Stylish on screen display as it broke some OSD popups from some other extension I use
 
-</aside>
+> 💡 Extra note:
+> I disabled the Stylish on screen display as it broke some OSD popups from some other extension I use
+
+
 
 ### Blur My Shell
 
@@ -123,12 +123,12 @@ I disabled the Stylish on screen display as it broke some OSD popups from some o
         Idk how to do it bc i dont use snap oops pls tell me if you know how to do it and ill put it here :)
         
 
-<aside>
-💡 Extra note:
 
-I set my opacity to 178 as I think it was the best balance between readability and cool-nes
+> 💡 Extra note:
+> 
+> I set my opacity to 178 as I think it was the best balance between readability and cool-nes
 
-</aside>
+
 
 ### Just Perfection
 
@@ -157,10 +157,10 @@ I set my opacity to 178 as I think it was the best balance between readability a
 
 - Position in top panel → Center
 
-<aside>
-💡 - To rename your workspaces/desktops right-click on the menu in the top bar. If you wanna use emojis use this: [https://flathub.org/sv/apps/it.mijorus.smile](https://flathub.org/sv/apps/it.mijorus.smile)
 
-</aside>
+> 💡 - To rename your workspaces/desktops right-click on the menu in the top bar. If you wanna use emojis use this: [https://flathub.org/sv/apps/it.mijorus.smile](https://flathub.org/sv/apps/it.mijorus.smile)
+
+
 
 Extra: I set the border radius to 255 to make the highlights more rounded and make it fit better after I took the screenshot
 
@@ -191,8 +191,8 @@ It’s not a perfect solution but I thinks it’s way better than just leaving i
 1. Install a little bit of this: [https://github.com/fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 
 <aside>
-💡 To make fish your default shell follow this guide: [https://askubuntu.com/a/26459](https://askubuntu.com/a/26459)
-*Also not all commands in fish are exactly the same as in Bash. If you encounter any trouble you can just start Bash in your terminal and continue there*
+> 💡 To make fish your default shell follow this guide: [https://askubuntu.com/a/26459](https://askubuntu.com/a/26459)
+> *Also not all commands in fish are exactly the same as in Bash. If you encounter any trouble you can just start Bash in your terminal and continue there*
 
 </aside>
 
@@ -233,18 +233,17 @@ It’s not a perfect solution but I thinks it’s way better than just leaving i
 
 1. Install Spicetify: [https://spicetify.app/docs/getting-started#shell-pre-built-binary](https://spicetify.app/docs/getting-started#shell-pre-built-binary)
 
-<aside>
-💡 If you are getting a “can’t find the command spicetify error” just restart your terminal
 
-</aside>
+> 💡 If you are getting a “can’t find the command spicetify error” just restart your terminal
 
-<aside>
-💡 If you are getting an error about spicetify noting finding the config file, make sure to properly read through this:[https://spicetify.app/docs/advanced-usage/installation#note-for-linux-users](https://spicetify.app/docs/advanced-usage/installation#note-for-linux-users)
-I wasted hours not realizing what I did wrong installing it for the first time
 
-After this you might getting an error saying that you lack permission to edit the files. In that case type this command into your terminal (with your username of course):
 
-</aside>
+> 💡 If you are getting an error about spicetify noting finding the config file, make sure to properly read through this:[https://spicetify.app/docs/advanced-usage/installation#note-for-linux-users](https://spicetify.app/docs/advanced-usage/installation#note-for-linux-users)
+> I wasted hours not realizing what I did wrong installing it for the first time
+>
+> After this you might getting an error saying that you lack permission to edit the files. In that case type this command into your terminal (with your username of course):
+
+
 
 ```bash
 sudo chown you-user-name /var/lib/flatpak/app/com.spotify.Client/x86_64/stable/active/files/extra/share/
@@ -260,10 +259,10 @@ sudo chown you-user-name /var/lib/flatpak/app/com.spotify.Client/x86_64/stable/a
 
 For this to work you need to install Notion as a PWA in you preferred browser
 
-<aside>
-💡 If you wanna use Firefox you need this: [https://addons.mozilla.org/zh-TW/firefox/addon/pwas-for-firefox/](https://addons.mozilla.org/zh-TW/firefox/addon/pwas-for-firefox/)
 
-</aside>
+> 💡 If you wanna use Firefox you need [this](https://addons.mozilla.org/firefox/addon/pwas-for-firefox/)
+
+
 
 1. Install the Stylus browser extension in your PWA: [https://github.com/openstyles/stylus/#readme](https://github.com/openstyles/stylus/#readme)
 2. Install this theme: [https://userstyles.world/style/3838/notion-catppuccin](https://userstyles.world/style/3838/notion-catppuccin)
