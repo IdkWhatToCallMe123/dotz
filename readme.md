@@ -190,11 +190,10 @@ It’s not a perfect solution but I thinks it’s way better than just leaving i
 
 1. Install a little bit of this: [https://github.com/fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
 
-<aside>
+
 > 💡 To make fish your default shell follow this guide: [https://askubuntu.com/a/26459](https://askubuntu.com/a/26459)
 > *Also not all commands in fish are exactly the same as in Bash. If you encounter any trouble you can just start Bash in your terminal and continue there*
 
-</aside>
 
 2. Then pepper a bit of this: [https://github.com/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
 3. Then make it cool with this: h[ttps://github.com/catppuccin/fish](https://github.com/catppuccin/fish)
