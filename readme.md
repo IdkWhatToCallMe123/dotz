@@ -196,21 +196,21 @@ It’s not a perfect solution but I thinks it’s way better than just leaving i
 
 </aside>
 
-1. Then pepper a bit of this: [https://github.com/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
-2. Then make it cool with this: h[ttps://github.com/catppuccin/fish](https://github.com/catppuccin/fish)
-3. To get the ****************E P I C**************** icons install a font of your choice: [https://www.nerdfonts.com/](https://www.nerdfonts.com/)
+2. Then pepper a bit of this: [https://github.com/oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+3. Then make it cool with this: h[ttps://github.com/catppuccin/fish](https://github.com/catppuccin/fish)
+4. To get the ****************E P I C**************** icons install a font of your choice: [https://www.nerdfonts.com/](https://www.nerdfonts.com/)
     
     (I personally used FiraCode :D)
     
-4. Install Black Box (the terminal app) 
+5. Install Black Box (the terminal app) 
     
     link: [https://flathub.org/sv/apps/com.raggesilver.BlackBox](https://flathub.org/sv/apps/com.raggesilver.BlackBox)
     
-5. Toggle these:
+6. Toggle these:
     - General → Header Bar → Show Header Bar → ******OFF******
     - General → Header Bar → Floating Controls → Show Floating Controls: ****ON****
     - Terminal → Terminal → Padding → 10
-6. To install the theme:
+7. To install the theme:
     
     1.  Download one of these: [https://github.com/catppuccin/tilix/tree/main/src](https://github.com/catppuccin/tilix/tree/main/src)
     
