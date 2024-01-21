@@ -18,8 +18,6 @@ Also expect that some apps might look weird as GTK theming not an officially sup
 
 ## A tiny message before the actual tutorial (im sorry)
 
-### THIS PAGE IS NOWHERE DONE!!!!!
-
 also:
 
 If you feel like anything is lacking or unclear, don’t hesitate to ask me! I also constantly struggle with installing stuff my self cuz im fat idiot.
